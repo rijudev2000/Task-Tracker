@@ -17,18 +17,6 @@
       "text": "Food Shopping",
       "day": "may 7th  at 12.30pm",
       "reminder": false
-    },
-    {
-      "id": 4,
-      "text": "F Shopping",
-      "day": "may 7th  at 12.30pm",
-      "reminder": false
-    },
-    {
-      "text": "hi",
-      "day": "hi",
-      "reminder": true,
-      "id": 5
     }
   ]
 }
