@@ -14,7 +14,7 @@ const httpOptions ={
   providedIn: 'root'
 })
 export class TaskService {
-  private apiUrl ='https://my-json-server.typicode.com/rijudev2000/Task-Tracker/db';
+  private apiUrl ='https://my-json-server.typicode.com/rijudev2000/Task-Tracker/db/';
 
 
   constructor(private http: HttpClient) { }
